@@ -12,13 +12,14 @@
 #### A little bit about me ✨
 
 - 🎓 I am a french Data Scientist with an engineering degree & a master degree in applied mathematics with a passion for algorithmics, hardware & computer as a whole
-- 🌆 I live in Paris (great place to live, explore & go out !)
-- 🎾 I enjoy working out & outdoor activites + I'm clearly a dog person
+- 🌆 I live in Paris 
+- 🎾 I enjoy working out & nature
 
 
 #### Links 
 📫 How to reach me:
-Mostly through LinkedIn: www.linkedin.com/in/nicolas-podvin-023415163
+Mostly by email: nicolaspodvin3@gmail.com
+Not through LinkedIn: www.linkedin.com/in/nicolas-podvin-023415163
 
 
 <!--
