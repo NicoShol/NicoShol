@@ -18,9 +18,9 @@
 
 #### Links 
 📫 How to reach me:
-Mostly by email: nicolaspodvin3@gmail.com
 
-Not through LinkedIn: www.linkedin.com/in/nicolas-podvin-023415163
+- Mostly by email: nicolaspodvin3@gmail.com
+- Not through LinkedIn: www.linkedin.com/in/nicolas-podvin-023415163
 
 
 <!--
