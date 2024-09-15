@@ -2,7 +2,7 @@
 
 #### Day To Day
 
-- 🔭 I’m currently working at https://scibids.com/ building, deploying & maintaining AI for Ad Tech 
+- 🔭 I’m currently working at https://scibids.com/ building, deploying & maintaining AI for Ad Tech (I'm mostly active on my professional account), working on my compagny's private repo)
 - 🌱 My projects often revolves around Bash, Python & GCP for
     - databases (Cloud SQL with MySQL, BigQuery & DataStore) 
     - deployements (Compute Engine & Kubernetes) 
